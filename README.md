@@ -41,13 +41,13 @@ Each problem specifies the names of the files to be submitted for it. Please mak
 
 _Deadline_: 18h on Monday, 21 October
 
-## 3.2 Feedback Form
+## 4.2 Feedback Form
 
 You have to provide feedback on your team and on the assignment by filling the form at [LMS -> Tests & Quizzes](https://lms.habib.edu.pk/x/WwHsDI). This is due at the same time as the problem solutions.
 
 _Deadline_: 18h on Monday, 21 October
 
-## 3.3 Peer Review
+## 4.3 Peer Review
 
 You will review 2 submissions which will be shared with you through [LMS -> Drop Box](https://lms.habib.edu.pk/x/zMq8bx). The review will be according to the accompanying _rubric.csv_ and will be submitted through [LMS -> Assignments](https://lms.habib.edu.pk/x/0UmLTX).
 
