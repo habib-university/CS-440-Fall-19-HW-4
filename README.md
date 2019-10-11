@@ -1,14 +1,13 @@
-# Homework 3: Transformations
+# Homework 4: Transformations
+# CS 440 Computer Graphics, Fall 2019
 
-## CSCI 155 Computer Graphics, Spring 2019
-
-### Purpose
+## Purpose
 
 This homework implements:
 
 - applying transformations
 
-### Background
+## Background
 
 For this homework, you should
 
@@ -18,36 +17,43 @@ For this homework, you should
 - be able to add interactive elements to an HTML page and connect them to listeners, and
 - be able to look up and implement file reading in JS.
 
-### The Problem Set
+## The Problem Set
 
 The problems are in `main.tex` which is to be compiled using a LaTeX compiler.
 
-### Grading
+## Time Requirement.
+
+Based on feedback from the last set of students that attempted this assignment, the number of hours that your team will require to complete this homework are as follows.
+- (min, max) : (2.5, 30)
+- (mean, median, st.dev.) : (10.76, 9, 6.38)
+
+## Grading
 
 The marks for this assignment are shown in `rubric.csv`.
 
-### Submission
+## Submission
 
 There are 3 parts to the submission.
 
-#### 1. Problem Set
+## 4.1 Problem Set
 
-Each problem specifies the names of the files to be submitted for it. Please make sure your submitted files have the indicated names. Any files in your GitHub repository with these names at the time of the deadline will be considered as your submission. Your submissions will be peer reviewed so please do not include identifying information in the submission. Your code will be run by a peer on their machine so make sure to submit _all_ files, e.g. the `Common` folder, or make sure that your code includes them over the Internet. Do _not_ include large mesh files.
+Each problem specifies the names of the files to be submitted for it. Please make sure your submitted files have the indicated names. Any files in your GitHub repository with these names at the time of the deadline will be considered as your submission. Your submissions will be peer reviewed so please do not include identifying information in the submission. Your code will be run by a peer on their machine _as is_ so make sure to include online links to non-submitted file, i.e. the `Common` folder.
 
-_Deadline_: 7 p.m. on March 27 on GitHub.
+_Deadline_: 18h on Monday, 21 October
 
-#### 2. Feedback Form
-Every student has to submit feedback on the homework at [`Sakai -> Tests & Quizzes`](https://sakai.claremont.edu/x/u9zokH). It is recommended that you fill this as soon as you submit your solutions but the deadline is 1 day later just in case.
+## 3.2 Feedback Form
 
-_Deadline_: 7 p.m. on March 28 on [`Sakai -> Tests & Quizzes`](https://sakai.claremont.edu/x/u9zokH).
+You have to provide feedback on your team and on the assignment by filling the form at [LMS -> Tests & Quizzes](https://lms.habib.edu.pk/x/WwHsDI). This is due at the same time as the problem solutions.
 
-#### 3. HW 3 : Peer Review
+_Deadline_: 18h on Monday, 21 October
 
-Every student will be assigned 2 submissions for grading according to `rubric.csv`. See [`Sakai -> Assignments`](https://sakai.claremont.edu/x/DTuAzD) for details on the peer review.
+## 3.3 Peer Review
 
-_Deadline_: 7 p.m. on March 29 on [`Sakai -> Assignments`](https://sakai.claremont.edu/x/DTuAzD).
+You will review 2 submissions which will be shared with you through [LMS -> Drop Box](https://lms.habib.edu.pk/x/zMq8bx). The review will be according to the accompanying _rubric.csv_ and will be submitted through [LMS -> Assignments](https://lms.habib.edu.pk/x/0UmLTX).
 
-### Tips
+_Deadline_: 18h on Friday, 25 October
+
+## Tips
 
 - Do not hard code the canvas size in your code.
 - Do not include identifying information.
@@ -57,12 +63,11 @@ _Deadline_: 7 p.m. on March 29 on [`Sakai -> Assignments`](https://sakai.claremo
 - Include all necessary files except large mesh files.
 - viel Spaß!
 
-### Discussion
+## Discussion
 
 There is a lot to handle and there are bound to be confusions and queries. Please share them using the following avenues.
 
-- discuss with your teammate
-- post in the [class forum](https://workplace.facebook.com/groups/354167592088891/)
-- discuss with your peers in the [discussion sessions](https://workplace.facebook.com/groups/354167592088891/permalink/382523642586619/)
-- talk to me in our meeting
-- talk to me after class
+- discuss with your partner
+- post in the [class forum](https://habibedu.facebook.com/groups/1062098287331314/)
+- discuss with your peers
+- talk to course staff.
